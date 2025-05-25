@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 
 int main(int argc, char** argv) {
   puts("hiiii omg hiiii :33");
